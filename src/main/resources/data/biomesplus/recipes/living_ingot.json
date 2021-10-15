@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"minecraft:wheat_seeds"
+        },
+        {
+            "item":"minecraft:wheat_seeds"
+        },
+        {
+            "item":"minecraft:vine"
+        },
+        {
+            "item":"minecraft:iron_ingot"
+        }
+    ],
+    "result": {
+        "item": "biomesplus:living_ingot",
+        "count": 1
+    }
+}

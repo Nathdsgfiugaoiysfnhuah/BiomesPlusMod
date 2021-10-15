@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        "XOX",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "biomesplus:jungle_soul"
+        },
+        "O": {
+            "item": "biomesplus:living_ingot"
+        }
+    },
+    "result": {
+        "item": "biomesplus:spore_sword",
+        "count": 1
+    }
+}
